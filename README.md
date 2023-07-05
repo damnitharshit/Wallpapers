@@ -4,6 +4,7 @@
 
 <p align="center">
 
+  <img src="https://raw.githubusercontent.com/Harshit-T/Wallpapers/main/walls/arch.png" width="700"/>
   <img src="https://raw.githubusercontent.com/Harshit-T/Wallpapers/main/walls/flowerbed.png" width="700"/>
   <img src="https://raw.githubusercontent.com/Harshit-T/Wallpapers/main/walls/walk.png" width="700"/>
   <img src="https://raw.githubusercontent.com/Harshit-T/Wallpapers/main/walls/stay.png" width="700"/>
