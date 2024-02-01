@@ -1,10 +1,8 @@
 <p align="center"><img src="logo.svg"></p>
 
 <p align="center">
+  <img loading="lazy" width="700" src="walls/room.png">
   <img loading="lazy" width="700" src="walls/crater.jpg">
-  <img loading="lazy" width="700" src="walls/when.jpg">
-  <img loading="lazy" width="700" src="walls/going.jpeg">
-  <img loading="lazy" width="700" src="walls/break.jpeg">
   <img loading="lazy" width="700" src="walls/astrophage.png">
   <img loading="lazy" width="700" src="walls/look.jpg">
   <img loading="lazy" width="700" src="walls/there.jpg">
